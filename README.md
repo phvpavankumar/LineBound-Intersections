@@ -1,1 +1,11 @@
-# object_lenght_mesurment
+# LineBounding-Intersection
+
+## Installation
+```
+pip install -r requirements.txt
+```
+
+## Run
+```
+python main.py
+```
